@@ -1,0 +1,17 @@
+nome;marca;tipo_carro;modelo;data_fabrico;numero_chassi;numero_cor;Anos
+Carlos Costa;Mazda;Convertible;MX-5;2010-08-22;J6NTUGS6YP14ZFTM9;2DB;14.0
+Carlos Oliveira;Honda;Truck;HR-V;2004-02-26;SI4W9N6DXPV0H0M33;8D3;20.0
+Maria Silva;Honda;Coupe;CR-V;2014-01-18;O7228IQDCDDHMZ9WE;A2C;10.0
+Ana Pereira;Nissan;Truck;Sentra;2010-07-30;KK4913G3YSJQAX8V6;706;14.0
+Ana Oliveira;Ford;Sedan;Explorer;2005-07-27;BUQ6AIQB0DVD2F7M1;6B8;19.0
+Ana Pereira;BMW;Sedan;i8;2018-02-16;90077TKT4C6JEA1TH;840;6.0
+Pedro Oliveira;Mazda;Truck;Mazda3;2017-02-14;XH7J6TJE99CUUEI5I;885;7.0
+Juliana Santos;BMW;Convertible;M3;2021-01-06;K0EYVOJ5M1LFYHVB7;E2C;3.0
+João Pereira;Toyota;Convertible;Corolla;2018-03-12;WULAK4ZRZY2T29ILT;445;6.0
+Pedro Silva;Chevrolet;Hatchback;Camaro;2016-01-11;GAQIXHEK6K7P8E0DI;23B;8.0
+Ana Oliveira;BMW;Sedan;M3;2018-12-05;AOLKSEMKBUTJL8RZE;236;5.0
+João Pereira;Audi;Coupe;Q5;2003-12-16;96FC1CP0XOLHR9HAK;D27;20.0
+Carlos Costa;Chevrolet;Sedan;Camaro;2005-05-20;SO46LC7Q5K0IMYHLH;024;19.0
+Pedro Costa;Ford;Truck;Mustang;2007-05-13;KIG062XPGW6FXA3P0;864;17.0
+Maria Oliveira;Volkswagen;Hatchback;Tiguan;2014-11-18;E9521QXLNI0U0UQJX;5CD;9.0
+Maria Silva;Toyota;Hatchback;Camry;2023-08-19;G6HF22F4RDGIWZ9N4;9BC;1.0
